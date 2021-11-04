@@ -1,17 +1,17 @@
 {
-
-"cinemovies": [
+	"cinemovies": [
 		{
 			"id": 1,
 			"nombre": "FOX SPORTS",
-			"enlace": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+			"enlace": "https://canaismax.com/assistir.php?chmax=foxsportshd",
 			"poster_path": "https://i.imgur.com/clrUXra.png"
 		},
-{
-           "nombre": "LA 1",
-          "imagen": "https://raw.githubusercontent.com/jeepeers/player/main/img/la1.png",
-          "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
-          "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
-}
-]
+		{
+			"id": 2,
+			"nombre": "LA 1",
+			"enlace": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+			"poster_path": "https://i.imgur.com/clrUXra.png"
+		}
+
+	]
 }
