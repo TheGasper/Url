@@ -1,4 +1,3 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2f163b93028a4c325c0d8f7f1b29e25
-https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=27965a5e47515c52af970def8230142c&key=b2f163b93028a4c325c0d8f7f1b29e25
 #EXTINF:-1 group-title="Berita" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News Asia Pacific
