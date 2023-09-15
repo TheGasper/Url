@@ -1,3 +1,3 @@
-#KODIPROP:inputstream.adaptive.license_key=MWQyYTU3YmY5OGIyZWVjMmZiNjlkMzBhZDM2NTU5OTk=?deviceId=MGRiYzQyMmExMTgxNTQxYWFlZGNiMTViOTc4NzBhZDk=
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={"claves" :[{ "kty":"oct","k":"MWQyYTU3YmY5OGIyZWVjMmZiNjlkMzBhZDM2NTU5OTk=","kid":"MGRiYzQyMmExMTgxNTQxYWFlZGNiMTViOTc4NzBhZDk="}],"type":"temporal"} https://0006-bbc.dtvott.com/dash_live_0006/manifest.mpd
 #EXTINF:-1 group-title="Berita" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News Asia Pacific
-https://0003-vos.dtvott.com/DASH/manifest.mpd
