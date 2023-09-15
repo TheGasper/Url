@@ -1,4 +1,3 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=5341205552959be7c2b951a0d3cf1fdddeviceId=e9138fadbe4835f4a9283ac6d5714bec
 #EXTINF:-1 group-title="Berita" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News Asia Pacific
 https://0003-vos.dtvott.com/DASH/manifest.mpd
